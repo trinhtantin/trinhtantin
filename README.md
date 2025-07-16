@@ -22,7 +22,7 @@
 - 🌱 I’m constantly learning about **DevOps practices, CI/CD automation with GitHub Actions, and low-level system tweaking.**
 - 👯 I’m looking to collaborate on open-source projects related to Android or system utilities.
 - 💬 Ask me about anything related to **Git, Shell Scripting, or Android ROM development.**
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **[trinhtantin.tech@gmail.]**
 
 ---
 
@@ -53,6 +53,6 @@
 
 <p align="center">
 <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_FACEBOOK_URL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="[https://www.facebook.com/leotins.2006]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="YOUR_TELEGRAM_URL" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
