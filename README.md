@@ -1,6 +1,6 @@
 # Trịnh Tấn Tín (leotins) 👋
 
-### A passionate developer from Ho Chi Minh City, Vietnam 🇻🇳
+### A developer from Ho Chi Minh City, Vietnam 🇻🇳
 
 *A tech enthusiast with a deep interest in Android systems, performance optimization, and automation.*
 
