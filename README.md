@@ -18,16 +18,24 @@
 
 ---
 
-### 🛠️ My Tech Stack
+```markdown
 
-| Languages                                                                                                                              | Frameworks & Technologies                                                                                                                       | Tools & Platforms                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/YAML-%234B5F7E.svg?style=for-the-badge&logo=yaml&logoColor=white" />                               | <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />                               | <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />                           |
-| <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />                  | <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />                                   | <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />      |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />                                 | <img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=3DDC84" />                                      | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />                           |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />                                |                                                                                                                                                 | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+🛠️ My Tech Stack
+Languages	Frameworks & Technologies	Tools & Platforms
+https://img.shields.io/badge/YAML-%234B5F7E.svg?style=for-the-badge&logo=yaml&logoColor=white" />
+https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=3DDC84" />
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
----
+Xuất sang Trang tính
+```
 
 ### 📊 My GitHub Stats
 
