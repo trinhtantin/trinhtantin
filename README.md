@@ -1,12 +1,4 @@
-<p align="center">
-  <a href="https://github.com/trinhtantin">
-    <img src="https://raw.githubusercontent.com/trinhtantin/trinhtantin/main/assets/github-header.png" alt="Trinh Tan Tin's GitHub Banner">
-  </a>
-</p>
-
-<div align="center">
-
-# Trịnh Tấn Tín (Tantins) 👋
+# Trịnh Tấn Tín (leotins) 👋
 
 ### A passionate developer from Ho Chi Minh City, Vietnam 🇻🇳
 
