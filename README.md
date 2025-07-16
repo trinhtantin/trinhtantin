@@ -18,11 +18,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **ExtremeNexus**, a project focused on delivering a clean and optimized Android experience.
+- 🔭 I’m currently study on **Network Engineer**, a major focused to delivering a clean and optimized Network experience.
 - 🌱 I’m constantly learning about **DevOps practices, CI/CD automation with GitHub Actions, and low-level system tweaking.**
 - 👯 I’m looking to collaborate on open-source projects related to Android or system utilities.
 - 💬 Ask me about anything related to **Git, Shell Scripting, or Android ROM development.**
-- 📫 How to reach me: **[trinhtantin.tech@gmail.com]**
+- 📫 How to reach me: **trinhtantin.tech@gmail.com**
 
 ---
 
